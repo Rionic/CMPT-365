@@ -1,0 +1,1 @@
+This code was based off of assignment 2. It uses the exact same setup as assignment 2. We had trouble making a .jar file, and we think it is dues to the fact that eclipse sitll recognizes our file as "BlindHelper" (the assignment 2 title), even though it is an edited version of it. Since we used the same setup, however, the program should run perfectly fine. 
